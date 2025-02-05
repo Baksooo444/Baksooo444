@@ -4,7 +4,7 @@ Hi, I'm Kang Bakso! <img src="https://i.pinimg.com/originals/9f/43/a6/9f43a66631
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kangbakso?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Baksooo444?style=social)
+![GitHub followers](https://img.shields.io/github/followers/grapeot?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/f7deat?style=social)
 
 ### <img src="https://i.pinimg.com/originals/27/2e/3e/272e3e55dc180dc021af0a54ee70143f.gif" width="50"> A little more about me...  
