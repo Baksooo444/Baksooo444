@@ -39,6 +39,6 @@ const data = {
 <img src="https://i.pinimg.com/originals/ab/e1/4b/abe14bb83ab3b6be941a5a182adee0a4.gif" width="50" /> **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-
+SAMP GAME DAN LAINNYA
 ```
 <!--END_SECTION:waka-->
