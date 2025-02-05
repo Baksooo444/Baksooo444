@@ -1,4 +1,4 @@
-Hi, I'm Dinh Cong Tan! <img src="https://i.pinimg.com/originals/9f/43/a6/9f43a6663115cffaf06cf98f2cd0e2da.gif" width="50">
+Hi, I'm Kang Bakso! <img src="https://i.pinimg.com/originals/9f/43/a6/9f43a6663115cffaf06cf98f2cd0e2da.gif" width="50">
 <img align='right' src="https://raw.githubusercontent.com/f7deat/f7deat/master/nom-nom.gif" width="230">
 <p><em>Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
