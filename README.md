@@ -1,44 +1,42 @@
-Hi, I'm Kang Bakso! <img src="https://i.pinimg.com/originals/9f/43/a6/9f43a6663115cffaf06cf98f2cd0e2da.gif" width="50">
-<img align='right' src="https://raw.githubusercontent.com/f7deat/f7deat/master/nom-nom.gif" width="230">
-<p><em>Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kangbakso?style=social)
-![GitHub followers](https://img.shields.io/github/followers/grapeot?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/grapeot?style=social)
+# Hi there, I'm Bakso 👋
+**Game Server Developer • Linux Systems Administrator • Backend & Bot Engineer**
 
-### <img src="https://i.pinimg.com/originals/27/2e/3e/272e3e55dc180dc021af0a54ee70143f.gif" width="50"> A little more about me...  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@domain.com)
 
-```javascript
-const data = {
-    code: ["Javascript", "Typescript", ".Net", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography", "Draw"],
-    technologies: {
-        mobileApp: ["React Native"],
-        frontEnd: {
-            js: ["Vue", "Reactjs", "Angular", "AngularJs"],
-            css: ["materialize", "bootstrap", "Tailwind", "SCSS"]
-        },
-        backEnd: {
-            "node", "php", ".Net"
-        },
-        databases: ["MySql", "SQL Server", "Redis", "Elasticsearch"],
-        misc: ["Firebase", "selenium", "Heroku"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "As long as your remember me, you are not alone"
-};
-```
-
-<img src="https://i.pinimg.com/originals/07/d6/b9/07d6b9133c6cdb39c6ee7206eeddacc5.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baksooo444)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 About Me
+I am a developer and systems administrator based in Indonesia, specializing in building scalable multiplayer game servers, automated Discord ecosystems, and Linux infrastructure.
 
-<img src="https://i.pinimg.com/originals/ab/e1/4b/abe14bb83ab3b6be941a5a182adee0a4.gif" width="50" /> **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-DEV GAME DAN LAINNYA
-```
-<!--END_SECTION:waka-->
+- 🎮 **Game Development:** Custom gamemode architecture, economy systems, and anti-cheat logic using **PAWN** (SA-MP / open.mp) and **Luau** (Roblox Studio).
+- 🖥️ **Infrastructure & DevOps:** Deploying and maintaining VPS environments with **Docker**, **Pterodactyl Panel**, **Nginx**, and **MariaDB/MySQL**.
+- 🤖 **Automation & Web:** Building custom Discord bots (**Node.js / discord.js**) and lightweight web overlays/dashboards.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Lua](https://img.shields.io/badge/Luau%20/%20Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/PAWN%20/%20C-00599C?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Server & DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baksooo444/Baksooo444/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baksooo444/Baksooo444/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Baksooo444/Baksooo444/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
